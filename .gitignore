@@ -1,0 +1,6 @@
+ambiente
+*.pyc
+*~
+__pycache__
+/static
+.DS_Store
